@@ -116,7 +116,7 @@ while True:
 ඔබෙ වනු ඇත".format(female))
             print '                                                '
 
-
+#Concept is Flame Love Magic
 
 
 
