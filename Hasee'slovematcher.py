@@ -117,6 +117,7 @@ while True:
             print '                                                '
 
 #Concept is Flame Love Magic
+#All result based on Sinhalese and English languages
 
 
 
