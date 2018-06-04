@@ -2,7 +2,6 @@ print "*****Hasee's Art  © developed by Hasitha amarathunga******"
 print "Welcome To <<<HasEe>>>'s love Magical Converter"
 print '<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.'
 print "ඔබගේ ආදරය ට ජය........"
-print ' '
 
 
 while True:
@@ -116,7 +115,6 @@ while True:
 ඔබෙ වනු ඇත".format(female))
             print '                                                '
 
-#Concept is Flame Love Magic
 #All result based on Sinhalese and English languages
 
 
