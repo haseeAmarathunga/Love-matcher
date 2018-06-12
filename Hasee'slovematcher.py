@@ -1,3 +1,5 @@
+#This is support only Python 2.7 Version
+
 print "*****Hasee's Art  © developed by Hasitha amarathunga******"
 print "Welcome To <<<HasEe>>>'s love Magical Converter"
 print '<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.'
