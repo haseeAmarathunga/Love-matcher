@@ -1,13 +1,13 @@
 #This is support only Python 2.7 Version
 
-print "*****Hasee's Art  © developed by Hasitha amarathunga******"
-print "Welcome To <<<HasEe>>>'s love Magical Converter"
-print '<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.'
-print "ඔබගේ ආදරය ට ජය........"
+print ("*****Hasee's Art  © developed by Hasitha amarathunga******")
+print ("Welcome To <<<HasEe>>>'s love Magical Converter")
+print ('<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.')
+print ("ඔබගේ ආදරය ට ජය........")
 
 
 while True:
-    print " "
+    print (" ")
     male=raw_input("Input Your Name"+\
 "(කරැණාකර ඔබගේ නම ඇතුලත් කරන්න) : ")
     print " "
