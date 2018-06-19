@@ -8,13 +8,13 @@ print ("ඔබගේ ආදරය ට ජය........")
 
 while True:
     print (" ")
-    male=raw_input("Input Your Name"+\
+    male=input("Input Your Name"+\
 "(කරැණාකර ඔබගේ නම ඇතුලත් කරන්න) : ")
     print " "
-    female=raw_input("Input Your Lover Name"+\
+    female=input("Input Your Lover Name"+\
 "(ඔබගේ ආදරවන්තයාගේ හෝ වන්තියගේ නම ඇතුලත් කරන්න) : ")
     if male=='' :
-        print 'your name is not inputed \කර නොමැත.)'
+        print ('your name is not inputed \කර නොමැත.)'
  ඔබගේ නම ඇතුලත් කර නොමැත
 
     else:
@@ -68,11 +68,11 @@ while True:
                     magic= flame[w+1]
 
             if magic=='F':
-                print '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>your result is here'
+                print ('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>your result is here')
                 print ("You TRYING TO {0}. ඔබ {1} ට උත්සාහ කරයි.\
 කෙසේ හෝ උත්සාහ කරන්න. ඔබට ආදරය ජය ගත හැක ".format(female,female))
-                print ' '
-                print '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
+                print (' ')
+                print ('>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>')
                 
             elif magic=='L':
                 print '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>'
