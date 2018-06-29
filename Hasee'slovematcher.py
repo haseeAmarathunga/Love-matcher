@@ -1,9 +1,9 @@
-#This is support only Python 2.7 Version
+#This is support only Python 2.7 Version deveoped by Hasee Amarathunga
 
 print ("*****Hasee's Art  © developed by Hasitha amarathunga******")
 print ("Welcome To <<<HasEe>>>'s love Magical Converter")
 print ('<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.')
-print ("ඔබගේ ආදරය ට ජය........")
+print ("ඔබගේ ආදරය ට ජය....")
 
 
 while True:
