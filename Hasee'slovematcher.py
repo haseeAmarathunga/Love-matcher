@@ -1,7 +1,7 @@
 #This is support only Python 2.7 Version deveoped by Hasee Amarathunga
 
-print ("*****Hasee's Art  © developed by Hasitha amarathunga******")
-print ("Welcome To <<<HasEe>>>'s love Magical Converter")
+print ("*****Hasee's Art  © developed by Hasitha Amarathunga******")
+print ("Welcome To <<<Hasee>>>'s love Magic Converter")
 print ('<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.')
 print ("ඔබගේ ආදරය ට ජය....")
 
