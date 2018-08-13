@@ -1,6 +1,6 @@
 #This is support only Python 2.7 Version deveoped by Hasee Amarathunga
 
-print ("*****Hasee's Art  © developed by Hasitha Amarathunga******")
+print ("*****Hasee's Art  © developed by Hasee Amarathunga******")
 print ("Welcome To <<<Hasee>>>'s love Magic Converter")
 print ('<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.')
 print ("ඔබගේ ආදරය ට ජය....")
@@ -112,7 +112,7 @@ while True:
         except:
             print '>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>your result is here'
             print ' '
-            print ("Your Love is One side Love.Try and try.One day you can Fly.\
+            print ("Your Love is One side Love.Try and Try.One day you can Fly.\
 ඔබගේ ආදරය ඒක පාර්ශවීය ආදරයකි. උත්සාහ කරන්න දිනෙක {0}  \
 ඔබෙ වනු ඇත".format(female))
             print '                                                '
