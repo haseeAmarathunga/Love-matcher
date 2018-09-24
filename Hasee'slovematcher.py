@@ -1,7 +1,7 @@
 #This is support only Python 2.7 Version deveoped by Hasee Amarathunga
 
 print ("*****Hasee's Art  © developed by Hasee Amarathunga******")
-print ("Welcome To <<<Hasee>>>'s love Magic Converter")
+print ("Welcome To Hasee's love Magic Converter")
 print ('<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.')
 print ("ඔබගේ ආදරය ට ජය....")
 
@@ -117,7 +117,7 @@ while True:
 ඔබෙ වනු ඇත".format(female))
             print '                                                '
 
-#All result based on Sinhalese and English languages
+#All result based on Sinhalese and English languages developed by Hasee Amarathunga
 
 
 
