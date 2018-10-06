@@ -3,7 +3,7 @@
 print ("*****Hasee's Art  © developed by Hasee Amarathunga******")
 print ("Welcome To Hasee's love Magic Converter")
 print ('<<<හසී>>> ගේ මැජික් ආදරලන්තය ට ආදරයෙන් පිළිගනිමි.')
-print ("ඔබගේ ආදරය ට ජය....")
+print ("ඔබගේ ආදරය ට ජය....(Congrats for your Love!)")
 
 
 while True:
